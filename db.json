@@ -1,15 +1,14 @@
 {
-	listUsers: [
+	"listUsers": [
 		{
-			id: '1',
-			nambe: 'Juan',
-			last_name: 'Echenique'
+			"id": '1',
+			"name": 'Juan',
+			"last_name": 'Echenique'
 		},
 		{
-			id: '2',
-			nambe: 'Carlos',
-			last_name: 'Martinez'
+			"id": '2',
+			"name": 'Carlos',
+			"last_name": 'Martinez'
 		}
-
 	]
 }
